@@ -65,13 +65,18 @@ where `sigma > 0` is the scale parameter.
 ## Usage
 
 ```javascript
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-rayleigh-cdf/tags). For example,
+
+```javascript
 import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@v0.2.0-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@deno/mod.js';
 ```
 
 #### cdf( x, sigma )
@@ -144,7 +149,7 @@ y = myCDF( 0.5 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@v0.2.0-deno/mod.js';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-cdf@deno/mod.js';
 
 var sigma;
 var x;
