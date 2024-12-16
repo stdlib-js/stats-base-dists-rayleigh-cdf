@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-16)
+
+<section class="features">
+
+### Features
+
+-   [`d7f5b56`](https://github.com/stdlib-js/stdlib/commit/d7f5b56fc072abf167bd5eb5e2163833715f2211) - add C implementation of `stats/base/dists/rayleigh/cdf` [(#3931)](https://github.com/stdlib-js/stdlib/pull/3931)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3798](https://github.com/stdlib-js/stdlib/issues/3798)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d7f5b56`](https://github.com/stdlib-js/stdlib/commit/d7f5b56fc072abf167bd5eb5e2163833715f2211) - **feat:** add C implementation of `stats/base/dists/rayleigh/cdf` [(#3931)](https://github.com/stdlib-js/stdlib/pull/3931) _(by Vinit Pandit, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vinit Pandit
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
