@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3798](https://github.com/stdlib-js/stdlib/issues/3798)
+[#3798](https://github.com/stdlib-js/stdlib/issues/3798), [#4985](https://github.com/stdlib-js/stdlib/issues/4985)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d8c1025`](https://github.com/stdlib-js/stdlib/commit/d8c102519a591741b18bd7a58404f6f82145ccf8) - **chore:** refactor random number generation in `stats/base/dists/rayleigh` [(#5104)](https://github.com/stdlib-js/stdlib/pull/5104) _(by ekambains, Philipp Burckhardt)_
 -   [`2965f8f`](https://github.com/stdlib-js/stdlib/commit/2965f8f4d1469ed76c7d9c150b39a87b62d73fbd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`d7f5b56`](https://github.com/stdlib-js/stdlib/commit/d7f5b56fc072abf167bd5eb5e2163833715f2211) - **feat:** add C implementation of `stats/base/dists/rayleigh/cdf` [(#3931)](https://github.com/stdlib-js/stdlib/pull/3931) _(by Vinit Pandit, Philipp Burckhardt)_
@@ -48,10 +49,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
 -   Vinit Pandit
+-   ekambains
 
 </section>
 
