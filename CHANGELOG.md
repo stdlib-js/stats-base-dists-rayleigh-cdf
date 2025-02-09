@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+This release closes the following issue:
 
-[#3798](https://github.com/stdlib-js/stdlib/issues/3798), [#4985](https://github.com/stdlib-js/stdlib/issues/4985)
+[#3798](https://github.com/stdlib-js/stdlib/issues/3798)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`d8c1025`](https://github.com/stdlib-js/stdlib/commit/d8c102519a591741b18bd7a58404f6f82145ccf8) - **chore:** refactor random number generation in `stats/base/dists/rayleigh` [(#5104)](https://github.com/stdlib-js/stdlib/pull/5104) _(by ekambains, Philipp Burckhardt)_
 -   [`2965f8f`](https://github.com/stdlib-js/stdlib/commit/2965f8f4d1469ed76c7d9c150b39a87b62d73fbd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
